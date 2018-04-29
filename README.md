@@ -23,7 +23,7 @@ Launch 'Firesinging' and afterwards launch 'Manager.exe' from the downloaded dir
 
 ### Reference
 
-
+[http://docs.supersocket.net/v1-6/en-US/SuperSocket-ServerManager]
 
 
 
